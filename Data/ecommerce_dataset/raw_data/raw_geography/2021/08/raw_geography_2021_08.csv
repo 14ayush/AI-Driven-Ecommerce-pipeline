@@ -1,0 +1,16 @@
+geography_id,region_name,sub_region_name,country_name,country_code,currency_code,currency_name,currency_symbol,timezone,created_at,created_by
+1,North America,Northern America,United States,USA,USD,US Dollar,$,Europe/Minsk,2021-08-15 14:09:00,eric.horton058@analytics.example.com
+2,North America,Northern America,Canada,CAN,CAD,Canadian Dollar,C$,America/Guatemala,2021-08-27 23:11:29,jason.franklin045@dataops.example.com
+3,Europe,Northern Europe,United Kingdom,GBR,GBP,Pound Sterling,£,Europe/Malta,2021-08-26 17:19:23,sylvia.diaz107@dataops.example.com
+4,Europe,Western Europe,Germany,DEU,EUR,Euro,€,Europe/Vilnius,2021-08-31 06:37:20,taylor.cunningham023@commerce.example.com
+5,Europe,Western Europe,France,FRA,EUR,Euro,€,Asia/Rangoon,2021-08-30 07:35:33,brandon.yu006@analytics.example.com
+6,Europe,Southern Europe,Spain,ESP,EUR,Euro,€,Asia/Tbilisi,2021-08-03 07:09:13,stephen.clark001@analytics.example.com
+7,Europe,Southern Europe,Italy,ITA,EUR,Euro,€,Pacific/Truk,2021-08-25 06:43:21,stephen.clark001@analytics.example.com
+8,Europe,Western Europe,Netherlands,NLD,EUR,Euro,€,Europe/Chisinau,2021-08-11 02:04:42,ryan.steele043@commerce.example.com
+9,Oceania,Australia and New Zealand,Australia,AUS,AUD,Australian Dollar,A$,Asia/Riyadh,2021-08-02 01:24:00,jason.franklin045@dataops.example.com
+10,Asia,Eastern Asia,Japan,JPN,JPY,Japanese Yen,¥,Atlantic/Cape_Verde,2021-08-03 22:01:14,christine.carter078@commerce.example.com
+11,Asia,South-eastern Asia,Singapore,SGP,SGD,Singapore Dollar,S$,Africa/Kigali,2021-08-08 05:15:14,katelyn.pitts017@commerce.example.com
+12,Asia,Southern Asia,India,IND,INR,Indian Rupee,₹,Africa/Douala,2021-08-16 05:55:13,michelle.sims041@analytics.example.com
+13,Asia,Western Asia,United Arab Emirates,ARE,AED,UAE Dirham,د.إ,Pacific/Apia,2021-08-03 09:38:49,ashley.marks069@commerce.example.com
+14,South America,South America,Brazil,BRA,BRL,Brazilian Real,R$,America/El_Salvador,2021-08-12 10:38:59,brandon.yu006@analytics.example.com
+15,North America,Central America,Mexico,MEX,MXN,Mexican Peso,MX$,Africa/Nouakchott,2021-08-07 20:47:24,michelle.bender024@analytics.example.com

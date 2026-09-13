@@ -1,0 +1,16 @@
+geography_id,region_name,sub_region_name,country_name,country_code,currency_code,currency_name,currency_symbol,timezone,created_at,created_by
+1,North America,Northern America,United States,USA,USD,US Dollar,$,Europe/Minsk,2024-09-12 02:22:46,kevin.mathews014@analytics.example.com
+2,North America,Northern America,Canada,CAN,CAD,Canadian Dollar,C$,America/Guatemala,2024-09-28 12:07:14,lance.williams029@platform.example.com
+3,Europe,Northern Europe,United Kingdom,GBR,GBP,Pound Sterling,£,Europe/Malta,2024-09-30 04:40:00,rebecca.white032@dataops.example.com
+4,Europe,Western Europe,Germany,DEU,EUR,Euro,€,Europe/Vilnius,2024-09-15 15:00:36,linda.daniels047@dataops.example.com
+5,Europe,Western Europe,France,FRA,EUR,Euro,€,Asia/Rangoon,2024-09-18 22:49:11,alyssa.richards002@commerce.example.com
+6,Europe,Southern Europe,Spain,ESP,EUR,Euro,€,Asia/Tbilisi,2024-09-13 01:25:28,michael.berger060@platform.example.com
+7,Europe,Southern Europe,Italy,ITA,EUR,Euro,€,Pacific/Truk,2024-09-28 18:13:46,michael.berger060@platform.example.com
+8,Europe,Western Europe,Netherlands,NLD,EUR,Euro,€,Europe/Chisinau,2024-09-21 19:54:47,craig.johnson106@analytics.example.com
+9,Oceania,Australia and New Zealand,Australia,AUS,AUD,Australian Dollar,A$,Asia/Riyadh,2024-09-26 06:03:29,brandon.yu006@analytics.example.com
+10,Asia,Eastern Asia,Japan,JPN,JPY,Japanese Yen,¥,Atlantic/Cape_Verde,2024-09-19 05:14:17,patrick.gonzalez035@dataops.example.com
+11,Asia,South-eastern Asia,Singapore,SGP,SGD,Singapore Dollar,S$,Africa/Kigali,2024-09-13 19:07:34,christine.carter078@commerce.example.com
+12,Asia,Southern Asia,India,IND,INR,Indian Rupee,₹,Africa/Douala,2024-09-17 06:03:36,jason.franklin045@dataops.example.com
+13,Asia,Western Asia,United Arab Emirates,ARE,AED,UAE Dirham,د.إ,Pacific/Apia,2024-09-19 22:19:56,richard.bradshaw051@platform.example.com
+14,South America,South America,Brazil,BRA,BRL,Brazilian Real,R$,America/El_Salvador,2024-09-30 01:01:55,jonathan.jimenez057@platform.example.com
+15,North America,Central America,Mexico,MEX,MXN,Mexican Peso,MX$,Africa/Nouakchott,2024-09-11 20:54:21,richard.bradshaw051@platform.example.com

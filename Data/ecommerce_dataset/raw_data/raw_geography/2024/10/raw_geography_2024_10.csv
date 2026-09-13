@@ -1,0 +1,16 @@
+geography_id,region_name,sub_region_name,country_name,country_code,currency_code,currency_name,currency_symbol,timezone,created_at,created_by
+1,North America,Northern America,United States,USA,USD,US Dollar,$,Europe/Minsk,2024-10-14 13:03:38,megan.cunningham013@commerce.example.com
+2,North America,Northern America,Canada,CAN,CAD,Canadian Dollar,C$,America/Guatemala,2024-10-27 14:40:20,jennifer.atkins003@platform.example.com
+3,Europe,Northern Europe,United Kingdom,GBR,GBP,Pound Sterling,£,Europe/Malta,2024-10-27 16:28:26,jennifer.shepherd015@analytics.example.com
+4,Europe,Western Europe,Germany,DEU,EUR,Euro,€,Europe/Vilnius,2024-10-12 13:47:36,kristen.bailey110@analytics.example.com
+5,Europe,Western Europe,France,FRA,EUR,Euro,€,Asia/Rangoon,2024-10-27 09:09:42,craig.johnson106@analytics.example.com
+6,Europe,Southern Europe,Spain,ESP,EUR,Euro,€,Asia/Tbilisi,2024-10-06 11:44:21,anita.garcia021@dataops.example.com
+7,Europe,Southern Europe,Italy,ITA,EUR,Euro,€,Pacific/Truk,2024-10-30 15:11:41,richard.bradshaw051@platform.example.com
+8,Europe,Western Europe,Netherlands,NLD,EUR,Euro,€,Europe/Chisinau,2024-10-21 03:05:05,kelsey.taylor010@platform.example.com
+9,Oceania,Australia and New Zealand,Australia,AUS,AUD,Australian Dollar,A$,Asia/Riyadh,2024-10-17 23:27:38,mary.jordan048@analytics.example.com
+10,Asia,Eastern Asia,Japan,JPN,JPY,Japanese Yen,¥,Atlantic/Cape_Verde,2024-10-17 14:51:02,eric.rowe100@platform.example.com
+11,Asia,South-eastern Asia,Singapore,SGP,SGD,Singapore Dollar,S$,Africa/Kigali,2024-10-24 15:44:14,kenneth.rodgers059@analytics.example.com
+12,Asia,Southern Asia,India,IND,INR,Indian Rupee,₹,Africa/Douala,2024-10-07 03:30:15,alyssa.richards002@commerce.example.com
+13,Asia,Western Asia,United Arab Emirates,ARE,AED,UAE Dirham,د.إ,Pacific/Apia,2024-10-11 14:19:05,ryan.steele043@commerce.example.com
+14,South America,South America,Brazil,BRA,BRL,Brazilian Real,R$,America/El_Salvador,2024-10-23 14:07:50,raymond.pineda079@platform.example.com
+15,North America,Central America,Mexico,MEX,MXN,Mexican Peso,MX$,Africa/Nouakchott,2024-10-29 11:01:48,anita.garcia021@dataops.example.com

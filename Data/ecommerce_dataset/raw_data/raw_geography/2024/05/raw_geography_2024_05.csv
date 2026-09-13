@@ -1,0 +1,16 @@
+geography_id,region_name,sub_region_name,country_name,country_code,currency_code,currency_name,currency_symbol,timezone,created_at,created_by
+1,North America,Northern America,United States,USA,USD,US Dollar,$,Europe/Minsk,2024-05-31 04:47:09,eric.mullen052@dataops.example.com
+2,North America,Northern America,Canada,CAN,CAD,Canadian Dollar,C$,America/Guatemala,2024-05-13 11:36:18,adam.gordon030@commerce.example.com
+3,Europe,Northern Europe,United Kingdom,GBR,GBP,Pound Sterling,£,Europe/Malta,2024-05-09 22:24:05,tiffany.freeman101@analytics.example.com
+4,Europe,Western Europe,Germany,DEU,EUR,Euro,€,Europe/Vilnius,2024-05-13 04:36:25,anita.garcia021@dataops.example.com
+5,Europe,Western Europe,France,FRA,EUR,Euro,€,Asia/Rangoon,2024-05-20 07:24:10,arthur.ortiz082@platform.example.com
+6,Europe,Southern Europe,Spain,ESP,EUR,Euro,€,Asia/Tbilisi,2024-05-18 16:12:56,brandon.yu006@analytics.example.com
+7,Europe,Southern Europe,Italy,ITA,EUR,Euro,€,Pacific/Truk,2024-05-25 03:48:00,jason.franklin045@dataops.example.com
+8,Europe,Western Europe,Netherlands,NLD,EUR,Euro,€,Europe/Chisinau,2024-05-07 14:37:40,shawn.baxter004@dataops.example.com
+9,Oceania,Australia and New Zealand,Australia,AUS,AUD,Australian Dollar,A$,Asia/Riyadh,2024-05-26 23:35:39,christine.carter112@commerce.example.com
+10,Asia,Eastern Asia,Japan,JPN,JPY,Japanese Yen,¥,Atlantic/Cape_Verde,2024-05-29 11:50:40,tiffany.freeman101@analytics.example.com
+11,Asia,South-eastern Asia,Singapore,SGP,SGD,Singapore Dollar,S$,Africa/Kigali,2024-05-31 18:35:37,eric.rowe100@platform.example.com
+12,Asia,Southern Asia,India,IND,INR,Indian Rupee,₹,Africa/Douala,2024-05-28 15:35:43,adam.henson113@dataops.example.com
+13,Asia,Western Asia,United Arab Emirates,ARE,AED,UAE Dirham,د.إ,Pacific/Apia,2024-05-27 10:46:21,richard.bradshaw051@platform.example.com
+14,South America,South America,Brazil,BRA,BRL,Brazilian Real,R$,America/El_Salvador,2024-05-12 21:15:55,arthur.ortiz082@platform.example.com
+15,North America,Central America,Mexico,MEX,MXN,Mexican Peso,MX$,Africa/Nouakchott,2024-05-03 05:08:27,arthur.ortiz082@platform.example.com

@@ -1,0 +1,16 @@
+geography_id,region_name,sub_region_name,country_name,country_code,currency_code,currency_name,currency_symbol,timezone,created_at,created_by
+1,North America,Northern America,United States,USA,USD,US Dollar,$,Europe/Minsk,2023-04-27 04:47:16,alyssa.richards002@commerce.example.com
+2,North America,Northern America,Canada,CAN,CAD,Canadian Dollar,C$,America/Guatemala,2023-04-30 19:28:34,crystal.smith022@platform.example.com
+3,Europe,Northern Europe,United Kingdom,GBR,GBP,Pound Sterling,£,Europe/Malta,2023-04-02 05:29:41,jennifer.bauer068@analytics.example.com
+4,Europe,Western Europe,Germany,DEU,EUR,Euro,€,Europe/Vilnius,2023-04-12 06:16:37,megan.cunningham013@commerce.example.com
+5,Europe,Western Europe,France,FRA,EUR,Euro,€,Asia/Rangoon,2023-04-15 17:44:11,eric.mullen052@dataops.example.com
+6,Europe,Southern Europe,Spain,ESP,EUR,Euro,€,Asia/Tbilisi,2023-04-04 05:29:35,michael.berger060@platform.example.com
+7,Europe,Southern Europe,Italy,ITA,EUR,Euro,€,Pacific/Truk,2023-04-27 05:42:23,kelsey.taylor010@platform.example.com
+8,Europe,Western Europe,Netherlands,NLD,EUR,Euro,€,Europe/Chisinau,2023-04-14 02:58:03,grace.gonzales099@dataops.example.com
+9,Oceania,Australia and New Zealand,Australia,AUS,AUD,Australian Dollar,A$,Asia/Riyadh,2023-04-08 05:22:23,timothy.cannon081@analytics.example.com
+10,Asia,Eastern Asia,Japan,JPN,JPY,Japanese Yen,¥,Atlantic/Cape_Verde,2023-04-12 02:13:08,stephen.clark001@analytics.example.com
+11,Asia,South-eastern Asia,Singapore,SGP,SGD,Singapore Dollar,S$,Africa/Kigali,2023-04-26 09:20:54,michelle.bender024@analytics.example.com
+12,Asia,Southern Asia,India,IND,INR,Indian Rupee,₹,Africa/Douala,2023-04-07 13:17:42,joann.clark089@commerce.example.com
+13,Asia,Western Asia,United Arab Emirates,ARE,AED,UAE Dirham,د.إ,Pacific/Apia,2023-04-08 02:36:40,jimmy.washington028@commerce.example.com
+14,South America,South America,Brazil,BRA,BRL,Brazilian Real,R$,America/El_Salvador,2023-04-04 22:34:03,kelsey.taylor010@platform.example.com
+15,North America,Central America,Mexico,MEX,MXN,Mexican Peso,MX$,Africa/Nouakchott,2023-04-30 02:37:05,jennifer.bauer068@analytics.example.com

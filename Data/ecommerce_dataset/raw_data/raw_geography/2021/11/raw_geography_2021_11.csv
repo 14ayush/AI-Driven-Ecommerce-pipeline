@@ -1,0 +1,16 @@
+geography_id,region_name,sub_region_name,country_name,country_code,currency_code,currency_name,currency_symbol,timezone,created_at,created_by
+1,North America,Northern America,United States,USA,USD,US Dollar,$,Europe/Minsk,2021-11-08 16:11:19,james.proctor094@dataops.example.com
+2,North America,Northern America,Canada,CAN,CAD,Canadian Dollar,C$,America/Guatemala,2021-11-02 13:37:46,timothy.cannon081@analytics.example.com
+3,Europe,Northern Europe,United Kingdom,GBR,GBP,Pound Sterling,£,Europe/Malta,2021-11-17 12:07:05,shawn.baxter004@dataops.example.com
+4,Europe,Western Europe,Germany,DEU,EUR,Euro,€,Europe/Vilnius,2021-11-17 02:32:51,andrea.cummings039@platform.example.com
+5,Europe,Western Europe,France,FRA,EUR,Euro,€,Asia/Rangoon,2021-11-04 18:45:28,ashley.marks069@commerce.example.com
+6,Europe,Southern Europe,Spain,ESP,EUR,Euro,€,Asia/Tbilisi,2021-11-02 16:31:53,james.proctor094@dataops.example.com
+7,Europe,Southern Europe,Italy,ITA,EUR,Euro,€,Pacific/Truk,2021-11-24 10:46:45,victoria.medina044@dataops.example.com
+8,Europe,Western Europe,Netherlands,NLD,EUR,Euro,€,Europe/Chisinau,2021-11-15 22:15:20,jason.franklin045@dataops.example.com
+9,Oceania,Australia and New Zealand,Australia,AUS,AUD,Australian Dollar,A$,Asia/Riyadh,2021-11-16 13:43:09,jennifer.bauer068@analytics.example.com
+10,Asia,Eastern Asia,Japan,JPN,JPY,Japanese Yen,¥,Atlantic/Cape_Verde,2021-11-25 22:26:44,adam.gordon030@commerce.example.com
+11,Asia,South-eastern Asia,Singapore,SGP,SGD,Singapore Dollar,S$,Africa/Kigali,2021-11-23 14:28:56,sylvia.diaz107@dataops.example.com
+12,Asia,Southern Asia,India,IND,INR,Indian Rupee,₹,Africa/Douala,2021-11-20 11:11:48,david.cabrera119@dataops.example.com
+13,Asia,Western Asia,United Arab Emirates,ARE,AED,UAE Dirham,د.إ,Pacific/Apia,2021-11-22 02:04:21,jason.franklin045@dataops.example.com
+14,South America,South America,Brazil,BRA,BRL,Brazilian Real,R$,America/El_Salvador,2021-11-07 14:13:47,micheal.chen050@dataops.example.com
+15,North America,Central America,Mexico,MEX,MXN,Mexican Peso,MX$,Africa/Nouakchott,2021-11-27 09:18:30,jeffery.miller012@commerce.example.com

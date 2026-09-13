@@ -1,0 +1,16 @@
+geography_id,region_name,sub_region_name,country_name,country_code,currency_code,currency_name,currency_symbol,timezone,created_at,created_by
+1,North America,Northern America,United States,USA,USD,US Dollar,$,Europe/Minsk,2022-08-14 06:28:26,andrew.ellis102@analytics.example.com
+2,North America,Northern America,Canada,CAN,CAD,Canadian Dollar,C$,America/Guatemala,2022-08-16 20:22:09,andrew.ellis102@analytics.example.com
+3,Europe,Northern Europe,United Kingdom,GBR,GBP,Pound Sterling,£,Europe/Malta,2022-08-14 00:50:54,kevin.mathews014@analytics.example.com
+4,Europe,Western Europe,Germany,DEU,EUR,Euro,€,Europe/Vilnius,2022-08-08 14:16:30,kelsey.taylor010@platform.example.com
+5,Europe,Western Europe,France,FRA,EUR,Euro,€,Asia/Rangoon,2022-08-31 21:35:14,kristen.bailey110@analytics.example.com
+6,Europe,Southern Europe,Spain,ESP,EUR,Euro,€,Asia/Tbilisi,2022-08-22 10:24:25,sylvia.diaz107@dataops.example.com
+7,Europe,Southern Europe,Italy,ITA,EUR,Euro,€,Pacific/Truk,2022-08-12 19:43:21,troy.boone097@platform.example.com
+8,Europe,Western Europe,Netherlands,NLD,EUR,Euro,€,Europe/Chisinau,2022-08-12 15:40:52,yesenia.arnold040@platform.example.com
+9,Oceania,Australia and New Zealand,Australia,AUS,AUD,Australian Dollar,A$,Asia/Riyadh,2022-08-29 15:34:42,chelsea.patel065@commerce.example.com
+10,Asia,Eastern Asia,Japan,JPN,JPY,Japanese Yen,¥,Atlantic/Cape_Verde,2022-08-15 14:12:46,brandon.yu006@analytics.example.com
+11,Asia,South-eastern Asia,Singapore,SGP,SGD,Singapore Dollar,S$,Africa/Kigali,2022-08-13 21:56:43,brandi.carter038@dataops.example.com
+12,Asia,Southern Asia,India,IND,INR,Indian Rupee,₹,Africa/Douala,2022-08-06 09:21:45,victoria.medina044@dataops.example.com
+13,Asia,Western Asia,United Arab Emirates,ARE,AED,UAE Dirham,د.إ,Pacific/Apia,2022-08-12 08:07:19,timothy.cannon081@analytics.example.com
+14,South America,South America,Brazil,BRA,BRL,Brazilian Real,R$,America/El_Salvador,2022-08-08 11:05:54,jennifer.atkins003@platform.example.com
+15,North America,Central America,Mexico,MEX,MXN,Mexican Peso,MX$,Africa/Nouakchott,2022-08-04 17:09:00,craig.johnson106@analytics.example.com

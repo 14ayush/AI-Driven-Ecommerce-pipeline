@@ -1,0 +1,12 @@
+currency_code,currency_name,currency_symbol,decimal_places,currency_type,active_flag,created_at,created_by
+USD,US Dollar,$,2,FIAT,true,2025-10-27 21:38:54,michelle.sims041@analytics.example.com
+CAD,Canadian Dollar,C$,2,FIAT,true,2025-10-01 13:44:06,anita.garcia021@dataops.example.com
+GBP,Pound Sterling,£,2,FIAT,true,2025-10-01 13:15:19,raymond.pineda079@platform.example.com
+EUR,Euro,€,2,FIAT,true,2025-10-23 07:29:34,katelyn.pitts017@commerce.example.com
+AUD,Australian Dollar,A$,2,FIAT,true,2025-10-06 11:53:10,megan.cunningham013@commerce.example.com
+JPY,Japanese Yen,¥,0,FIAT,true,2025-10-20 12:01:45,mary.jordan048@analytics.example.com
+SGD,Singapore Dollar,S$,2,FIAT,true,2025-10-20 03:41:01,jennifer.hudson020@analytics.example.com
+INR,Indian Rupee,₹,2,FIAT,true,2025-10-09 21:59:41,jennifer.erickson018@platform.example.com
+AED,UAE Dirham,د.إ,2,FIAT,true,2025-10-29 15:13:28,samantha.villa073@commerce.example.com
+BRL,Brazilian Real,R$,2,FIAT,true,2025-10-14 08:44:35,allen.foster026@dataops.example.com
+MXN,Mexican Peso,MX$,2,FIAT,true,2025-10-16 22:28:17,eric.horton058@analytics.example.com

@@ -1,1 +1,7 @@
 .venv
+.env
+.env.example
+DataLoad/
+src/
+Data/Historic_Data/
+connect.py
